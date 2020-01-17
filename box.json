@@ -1,0 +1,5 @@
+{
+    "main": "vendor/codeception/codeception/app.php",
+    "directories": ["vendor"],    
+    "output": "build/wpcept.phar"
+}

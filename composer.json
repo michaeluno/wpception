@@ -1,0 +1,21 @@
+{
+  "name": "michaeluno/wpception",
+  "description": "Codeception fork utilized for testing WordPress related development",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michael Uno",
+      "email": "michael2@michaeluno.jp"
+    }
+  ],
+  "require": {
+    "codeception/codeception": "4.0.2",
+    "phpunit/phpunit": "^7.0"
+  },
+  "require-dev": {
+    "codeception/module-filesystem": "^1.0",
+    "codeception/module-asserts": "^1.1",
+    "codeception/module-db": "^1.0"
+  }
+}
