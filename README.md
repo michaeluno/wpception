@@ -8,8 +8,16 @@ This creates a difficult situation for WordPress plugin/theme developers to use 
 
 So this custom build solves the incompatibility issue.
 
+## Download
+Download the [wpcept.phar](https://github.com/michaeluno/wpception/raw/master/build/wpcept.phar) file and place it in a working test directory.
+
 ## Usage
-The same as Codeception. 
+Same as Codeception. 
+```bash
+$ php wpcept.phar -V 
+$ php wpcept.phar bootstrap 
+$ php wpcept.phar run 
+```  
 
 ## Included Versions
 - [Codeception](https://github.com/codeception/codeception) 4.0.2
