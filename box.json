@@ -1,5 +1,6 @@
 {
-    "main": "vendor/codeception/codeception/app.php",
-    "directories": ["vendor"],    
-    "output": "build/wpcept.phar"
+    "main": "app.php",
+    "output": "build/wpcept.phar",
+    "directories": [ "vendor" ],
+    "files": [ "composer.json", "composer.lock", "LICENSE.txt" ]
 }
