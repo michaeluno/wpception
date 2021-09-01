@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "codeception/codeception": "4.0.2",
+    "codeception/codeception": "4.1.22",
     "phpunit/phpunit": "^7.0",
     "monolog/monolog": "~1.8",
     "codeception/specify": "~0.3",
